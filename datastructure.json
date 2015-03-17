@@ -1,0 +1,178 @@
+{
+	"courses": [{
+		"year": "2014",
+		"term": "2",
+		"cid": "3754",
+		"coursecode": "MATH1010G",
+		"coursename": "University 
+Mathematics",
+		"coursenamec": "\u5927\u5b78\u6578\u5b78",
+		"periods": [{
+			"pid": "6288",
+			"cid": "3754",
+			"year": "2014",
+			"term": "2",
+			"day": "T",
+			"start": "5",
+			"end": "5",
+			"venue": "YIA_LT5",
+			"typ
+e": "TUT\/MP1\/01",
+			"lang": "C&E",
+			"quota": "30",
+			"remarks": ""
+		},
+		{
+			"pid": "6289",
+			"cid": "3754",
+			"year": "2014",
+			"term": "2",
+			"day": "T",
+			"start": "11",
+			"end": "11",
+			"venue": "YIA_LT3",
+			"type": "T
+UT\/MP1\/02",
+			"lang": "C&E",
+			"quota": "30",
+			"remarks": ""
+		},
+		{
+			"pid": "6290",
+			"cid": "3754",
+			"year": "2014",
+			"term": "2",
+			"day": "H",
+			"start": "5",
+			"end": "5",
+			"venue": "YIA_LT6",
+			"type": "TUT\/MP1
+\/03",
+			"lang": "C&E",
+			"quota": "30",
+			"remarks": ""
+		},
+		{
+			"pid": "6291",
+			"cid": "3754",
+			"year": "2014",
+			"term": "2",
+			"day": "H",
+			"start": "3",
+			"end": "4",
+			"venue": "YIA_LT6",
+			"type": "LEC\/MP1\/01",
+			"
+lang": "E",
+			"quota": "70",
+			"remarks": ""
+		},
+		{
+			"pid": "6292",
+			"cid": "3754",
+			"year": "2014",
+			"term": "2",
+			"day": "T",
+			"start": "6",
+			"end": "6",
+			"venue": "YIA_LT5",
+			"type": "LEC\/MP2\/01",
+			"lang": "E",
+			"quota": "70",
+			"remarks": ""
+		}],
+		"prof": ["DR CHAN Kai 
+Leung"],
+		"unit": "3",
+		"quota": "0",
+		"lang": "C&E"
+	},
+	{
+		"year": "2014",
+		"term": "2",
+		"cid": "3755",
+		"coursecode": "MATH1010H",
+		"coursename": "University 
+Mathematics",
+		"coursenamec": "\u5927\u5b78\u6578\u5b78",
+		"periods": [{
+			"pid": "6293",
+			"cid": "3755",
+			"year": "2014",
+			"term": "2",
+			"day": "T",
+			"start": "5",
+			"end": "5",
+			"venue": "YIA_LT5",
+			"typ
+e": "TUT\/MP1\/01",
+			"lang": "C&E",
+			"quota": "30",
+			"remarks": ""
+		},
+		{
+			"pid": "6294",
+			"cid": "3755",
+			"year": "2014",
+			"term": "2",
+			"day": "T",
+			"start": "11",
+			"end": "11",
+			"venue": "YIA_LT3",
+			"type": "T
+UT\/MP1\/02",
+			"lang": "C&E",
+			"quota": "30",
+			"remarks": ""
+		},
+		{
+			"pid": "6295",
+			"cid": "3755",
+			"year": "2014",
+			"term": "2",
+			"day": "H",
+			"start": "5",
+			"end": "5",
+			"venue": "YIA_LT6",
+			"type": "TUT\/MP1
+\/03",
+			"lang": "C&E",
+			"quota": "30",
+			"remarks": ""
+		},
+		{
+			"pid": "6296",
+			"cid": "3755",
+			"year": "2014",
+			"term": "2",
+			"day": "H",
+			"start": "6",
+			"end": "6",
+			"venue": "YIA_LT6",
+			"type": "LEC\/MP1\/01",
+			"
+lang": "C&E",
+			"quota": "70",
+			"remarks": ""
+		},
+		{
+			"pid": "6297",
+			"cid": "3755",
+			"year": "2014",
+			"term": "2",
+			"day": "T",
+			"start": "3",
+			"end": "4",
+			"venue": "YIA_LT5",
+			"type": "LEC\/MP2\/01",
+			"lang": "
+C&E",
+			"quota": "70",
+			"remarks": ""
+		}],
+		"prof": ["DR CHAN Kai Leung"],
+		"unit": "3",
+		"quota": "0",
+		"lang": "C&E"
+	}]
+}

@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+
+  "name": "cusistant",
+  "description": "This extension makes it easier to search and plan courses in CUSIS",
+  "version": "1.0",
+  "author": "X.B.",
+ 
+  "background": {"scripts":["jquery-2.1.1.min.js","background.js"]},
+  "content_scripts": [
+	{
+		 "matches": ["https://portal.cuhk.edu.hk/*","https://cusis.cuhk.edu.hk/*"],	
+         "js": ["jquery-2.1.1.min.js","myContentScript.js"]
+	}
+  ],
+  "page_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html",
+	"default_title": "cusistant"
+  },
+  "permissions": [
+    "tabs",
+    "http://cuts.oursky.com/",
+	"https://cuts.oursky.com/",
+	"https://cusis.cuhk.edu.hk/",
+	"https://portal.cuhk.edu.hk/"
+  ]
+}
